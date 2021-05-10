@@ -4,7 +4,7 @@ R Shiny App for COVID Surveillance and Metrics
 DISCLAIMER: This code is for educational purposes and comes with NO GUARANTEES. For the Council of State and Territorial Epidemiologists (CSTE) Conference 2021. Data are fake and generated using random numbers in STATA. 
 
 # Background
-A free framework in R to visualize multiples sources of COVID-19 data, including: confirmed cases, laboratory results, and vaccine data.  Data included in this tutorial and code are fake and generated using random numbers in STATA. The data do not reflect the epidemiology of COVID-19 and vaccination in Baltimore City and are for educationcal purposes only.
+A free framework in R to visualize multiples sources of COVID-19 data, including: confirmed cases, laboratory results, and vaccination.  Data included in this tutorial and code are fake and generated using random numbers in STATA. The data do not reflect the epidemiology of COVID-19 and vaccination in Baltimore City and are for educationcal purposes only.
 
 # For more information
 Review the included presentation/PDF.
