@@ -1,5 +1,5 @@
 # COVID_APP
-R Shiny App for COVID Surveillance and Metrics
+R Shiny App for COVID-19 Surveillance and Metrics
 
 DISCLAIMER: This code is for educational purposes and comes with NO GUARANTEES. For the Council of State and Territorial Epidemiologists (CSTE) Conference 2021. Data are fake and generated entirely using random numbers in STATA. 
 
